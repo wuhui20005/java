@@ -1,0 +1,2 @@
+com\dubbo\example\provider\DubboProviderBootstrap.class
+com\dubbo\example\provider\DemoServiceImpl.class
